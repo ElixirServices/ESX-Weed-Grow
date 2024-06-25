@@ -1,0 +1,8 @@
+DONT RENAME FOLDERS IF YOU DONT KNOW HOW TO DO THIS!!!
+Create items in your esx core:
+
+weed_seed
+weed
+water
+dusk
+firtilizer
