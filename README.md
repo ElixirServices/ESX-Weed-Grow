@@ -4,7 +4,7 @@ ESX Weed Grow
 
 Made By @Whimsickle_ On Discord
 
-cloud-gaming.uk
+elixir-services.org
 
 Image Of Script Below
 ![Alt text](weed-growing-system.png)
